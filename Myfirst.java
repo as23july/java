@@ -3,7 +3,6 @@ import java.util.*;
 public class Myfirst {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String name = "tony";
         int a = sc.nextInt();
         int b = sc.nextInt();
         // int sum = aa+b; 
