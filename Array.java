@@ -11,7 +11,7 @@ public class Array {
         // for (int i = 0; i < size; i++) {
         //     arr[i] = sc.nextInt();    
         // }
-
+        
         System.out.println("enter element to find");
         int x = sc.nextInt();
 
