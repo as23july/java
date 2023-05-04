@@ -1,7 +1,10 @@
 import java.util.*;
+import Folder.*;
 
 public class Myfirst {
     public static void main(String[] args) {
+        Myclass myclass = new Myclass();
+        myclass.print();
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
@@ -16,6 +19,7 @@ public class Myfirst {
         else{
                 System.out.println("b greater");
             }
+            
         
         
         
