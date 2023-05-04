@@ -18,11 +18,7 @@ public class Myfirst {
             }
         else{
                 System.out.println("b greater");
-            }
-            
-        
-        
-        
+            }        
     }
 }
  
