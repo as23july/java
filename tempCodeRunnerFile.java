@@ -1,1 +1,2 @@
-s
+ss();
+        myclass.print(a, b);
