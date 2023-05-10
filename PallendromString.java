@@ -8,7 +8,7 @@ public class PallendromString {
             System.out.println("pallendrom");
         }
         else{
-            System.out.println("not pallendrom");
+            System.out.println("not pallendxrom");
         }
     }
 }

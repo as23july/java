@@ -6,6 +6,7 @@ public class Myfirst {
         int a = sc.nextInt();
         int b = sc.nextInt();
         // int sum = aa+b; 
+<<<<<<< Updated upstream
         if(a == b)
         {
             System.out.println("equal");
@@ -19,6 +20,20 @@ public class Myfirst {
         
         
         
+=======
+        // if(a == b)
+        // {
+        //     System.out.println("equal");
+        // }
+        // else if(a>b){
+        //         System.out.println("a greater");
+
+        //     }
+        // else{
+        //         System.out.println("b greater");
+        //     }    
+            
+>>>>>>> Stashed changes
     }
 }
  

@@ -29,6 +29,7 @@ public class Mergesort {
         }
 
     }
+
     public static void divide(int arr[], int start, int end) {
         if(start >= end)
         {
@@ -42,6 +43,7 @@ public class Mergesort {
 
         conqure(arr, start, mid, end);
     }
+    
     public static void main(String args []) {
         int arr[] = {6,3,9,5,2,8};
         int n = arr.length;
