@@ -19,8 +19,8 @@ public class Address {
     public String getCountry() {
         return Country;
     }
-    public void setCountry(String country) { 
-        Country = country;
+    public void setCountry(String Country) { 
+        this.Country = Country;
     }
 
 }
